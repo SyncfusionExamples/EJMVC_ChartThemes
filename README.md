@@ -1,5 +1,14 @@
 # Working with Different Themes available in Essential Charts
-An MVC Project that includes the Essential chart component and lets you know how to work with the different themes available in it.
 
-## How to run this project?
-Clone this repo into you local machine. Open it in Visual Studio 2019, build and run from it directly.
+This sample explains about how to work with the different themes available in ASP.NET MVC Chart Control.
+
+## Prerequisites
+
+* Visual Studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
